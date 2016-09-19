@@ -136,6 +136,10 @@ module.exports = {
         loaders: ["style", "css", "sass"]
       },
 
+      {
+        test: /\.(jpg|png)$/,
+        loader: 'file'
+      },
       /*
        * Json loader support for *.json files.
        *
