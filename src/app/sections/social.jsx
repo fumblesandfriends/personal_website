@@ -12,10 +12,10 @@ export default class SocialBar extends React.Component {
               <LinkedIn />
             </a>
             <a href="https://twitter.com/kolb0401" className="fi-social-twitter large social-icon">
-              <Github />
+              <Twitter />              
             </a>
             <a href="https://github.com/fumblesandfriends" className="fi-social-github large social-icon">
-              <Twitter />
+              <Github />
             </a>
         </div>
       </section>
