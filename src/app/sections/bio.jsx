@@ -8,8 +8,7 @@ export default class Bio extends React.Component {
         <div className="container">
             <h2>About Me</h2>
             <p>
-              I am a full stack software engineer for Smarter Travel, a subsidiary of
-              TripAdvisor. In my free time I am the volunteer IT Manager
+              I am a tech lead / senior engineer for Confirm.io (acquired by Facebook). In my free time I am the volunteer IT Manager
               of <a href="http://rufftalesrescue.org">Ruff Tales Rescue</a>, a 501c3 dog
               rescue organization. I love to experiment with new technologies,
               both frontend and backend, on my personal site. When I am not nerding out
